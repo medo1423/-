@@ -1,7 +1,7 @@
 #!/bin/bash
 cd $(cd $(dirname $0); pwd)
 echo -e '\e[1m\e[31m
-𝗦𝗢𝗨𝗥𝗖𝗘 𓅛 𝗭𝗘𝗟𝗭𝗔𝗟 is being installed, 
+𝗦𝗢𝗨𝗥𝗖𝗘 𓅛 𝐓𝐈𝐆𝐄𝐑 is being installed, 
 Please wait until the installation is complete
 \033[0m'
 echo -e '\033[0;33m
